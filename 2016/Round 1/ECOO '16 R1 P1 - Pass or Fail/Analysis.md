@@ -4,6 +4,6 @@ student got for each one.
 
 Loop through all the students, multiply their mark by the weight then divide by 100
 ``` 
-if(test * a / 100 + assignments * b / 100 + project * c / 100 + quiz * d / 100 >= 49.9) counter++; 
+if(test * WeightTest / 100 + assignments * WeightAassignment / 100 + project * WeightProject / 100 + quiz * WeightQuiz / 100 >= 49.9) counter++; 
 ```
 
