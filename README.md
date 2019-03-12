@@ -54,7 +54,7 @@
 |  1  |    2    |    ❌    |
 |  1  |    3    |   ❌    |
 |  1  |    4    |   ✔     |
-|Final|         |    1/4    |
+|Final|         |    2/4    |
 
 # 2018
 |Round|Problem #|Completed?|
