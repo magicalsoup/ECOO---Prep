@@ -1,9 +1,16 @@
 # ECOO
 
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid black;
+        }
+</style>
+
 ```
 hello
 ```
 # Progress
+
 
 ## 2012
 |Round|Problem #|Completed?|
