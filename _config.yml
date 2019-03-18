@@ -1,11 +1,11 @@
 title: Ecoo-Prep
 show_downloads: true
-google_analytics:
-theme: jekyll-theme-cayman
 plugins:
   - jekyll-relative-links
 relative_links:
   enabled: true
   collections: true
 include:
-  - README.html
+  - README.md
+theme: jekyll-theme-tactile  
+  
