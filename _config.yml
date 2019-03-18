@@ -2,8 +2,8 @@ plugins:
   - jekyll-relative-links
 relative_links:
   enabled: true
-  collections: true]
-kramdown:
+  collections: true
+
   
 include:
   - CONTRIBUTING.md
