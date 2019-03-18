@@ -1,5 +1,3 @@
-title: Ecoo-Prep
-show_downloads: true
 plugins:
   - jekyll-relative-links
 relative_links:
