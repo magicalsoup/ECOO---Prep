@@ -38,7 +38,6 @@
 <br>
 
 ## 2013
-
 <table class="tg">
   <tr>
     <th class="tg-yw4l"><b>Round</b></th>
@@ -72,6 +71,7 @@
 </table>
 
 <br>
+
 ## 2014
 <table class="tg">
   <tr>
@@ -106,6 +106,7 @@
 </table>
 
 <br>
+
 ## 2015
 <table class="tg">
   <tr>
@@ -140,6 +141,7 @@
 </table>
 
 <br>
+
 ## 2016
 <table class="tg">
   <tr>
@@ -174,6 +176,7 @@
 </table>
 
 <br>
+
 ## 2017
 <table class="tg">
   <tr>
@@ -208,6 +211,7 @@
 </table>
 
 <br>
+
 ## 2018
 <table class="tg">
   <tr>
