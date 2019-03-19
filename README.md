@@ -2,87 +2,237 @@
 
 # Progress
 
-
+## 2012
 <table class="tg">
   <tr>
-    <th class="tg-yw4l"><b>Animals</b></th>
-    <th class="tg-yw4l"><b>Sports</b></th>
-    <th class="tg-yw4l"><b>Fruits</b></th>
+    <th class="tg-yw4l"><b>Round</b></th>
+    <th class="tg-yw4l"><b>Problem #</b></th>
+    <th class="tg-yw4l"><b>Completed?</b></th>
   </tr>
   <tr>
-    <td class="tg-yw4l">Cat</td>
-    <td class="tg-yw4l">Soccer</td>
-    <td class="tg-yw4l">Apple</td>
+    <td class="tg-yw4l">1</td>
+    <td class="tg-yw4l">1</td>
+    <td class="tg-yw4l">✔ </td>
   </tr>
   <tr>
-    <td class="tg-yw4l">Dog</td>
-    <td class="tg-yw4l">Basketball</td>
-    <td class="tg-yw4l">Orange</td>
+    <td class="tg-yw4l">1</td>
+    <td class="tg-yw4l">2</td>
+    <td class="tg-yw4l">✔ </td>
   </tr>
+  <tr>
+    <td class="tg-yw4l">1</td>
+    <td class="tg-yw4l">3</td>
+    <td class="tg-yw4l">✔ </td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">1</td>
+    <td class="tg-yw4l">4</td>
+    <td class="tg-yw4l">✔ </td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Final</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">✔</td>
+</table>
+
+## 2013
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l"><b>Round</b></th>
+    <th class="tg-yw4l"><b>Problem #</b></th>
+    <th class="tg-yw4l"><b>Completed?</b></th>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">1</td>
+    <td class="tg-yw4l">1</td>
+    <td class="tg-yw4l">✔ </td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">1</td>
+    <td class="tg-yw4l">2</td>
+    <td class="tg-yw4l">✔</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">1</td>
+    <td class="tg-yw4l">3</td>
+    <td class="tg-yw4l">✔</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">1</td>
+    <td class="tg-yw4l">4</td>
+    <td class="tg-yw4l">❌</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Final</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">3/4</td>
+</table>
+
+## 2014
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l"><b>Round</b></th>
+    <th class="tg-yw4l"><b>Problem #</b></th>
+    <th class="tg-yw4l"><b>Completed?</b></th>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">1</td>
+    <td class="tg-yw4l">1</td>
+    <td class="tg-yw4l">✔ </td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">1</td>
+    <td class="tg-yw4l">2</td>
+    <td class="tg-yw4l">❌</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">1</td>
+    <td class="tg-yw4l">3</td>
+    <td class="tg-yw4l">❌</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">1</td>
+    <td class="tg-yw4l">4</td>
+    <td class="tg-yw4l">❌</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Final</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">1/4</td>
 </table>
 
 
-## 2012
-|Round|Problem #|Completed?|
-|:----|:--------|:---------|
-|  1  |    1    |    ✔    |
-|  1  |    2    |    ✔    |
-|  1  |    3    |    ✔    |
-|  1  |    4    |    ✔    |
-|Final|         |    ✔    |
-
-## 2013
-|Round|Problem #|Completed?|
-|:----|:--------|:---------|
-|  1  |    1    |    ✔    |
-|  1  |    2    |    ✔    |
-|  1  |    3    |    ✔    |
-|  1  |    4    |   ❌    |
-|Final|         |    3/4    |
-
-## 2014
-|Round|Problem #|Completed?|
-|:----|:--------|:---------|
-|  1  |    1    |    ✔    |
-|  1  |    2    |    ❌    |
-|  1  |    3    |   ❌    |
-|  1  |    4    |   ❌    |
-|Final|         |    1/4    |
-
 ## 2015
-|Round|Problem #|Completed?|
-|:----|:--------|:---------|
-|  1  |    1    |    ✔    |
-|  1  |    2    |    ❌ (James is doing it)    |
-|  1  |    3    |   ❌    |
-|  1  |    4    |   ❌    |
-|Final|         |    1/4    |
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l"><b>Round</b></th>
+    <th class="tg-yw4l"><b>Problem #</b></th>
+    <th class="tg-yw4l"><b>Completed?</b></th>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">1</td>
+    <td class="tg-yw4l">1</td>
+    <td class="tg-yw4l">✔ </td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">1</td>
+    <td class="tg-yw4l">2</td>
+    <td class="tg-yw4l">❌ (magicalsoup is doing it)</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">1</td>
+    <td class="tg-yw4l">3</td>
+    <td class="tg-yw4l">❌</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">1</td>
+    <td class="tg-yw4l">4</td>
+    <td class="tg-yw4l">❌</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Final</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">1/4</td>
+</table>
+
 
 ## 2016
-|Round|Problem #|Completed?|
-|:----|:--------|:---------|
-|  1  |    1    |    ✔    |
-|  1  |    2    |    ✔    |
-|  1  |    3    |   ❌    |
-|  1  |    4    |   ❌    |
-|Final|         |    2/4    |
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l"><b>Round</b></th>
+    <th class="tg-yw4l"><b>Problem #</b></th>
+    <th class="tg-yw4l"><b>Completed?</b></th>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">1</td>
+    <td class="tg-yw4l">1</td>
+    <td class="tg-yw4l">✔</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">1</td>
+    <td class="tg-yw4l">2</td>
+    <td class="tg-yw4l">✔</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">1</td>
+    <td class="tg-yw4l">3</td>
+    <td class="tg-yw4l">❌</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">1</td>
+    <td class="tg-yw4l">4</td>
+    <td class="tg-yw4l">❌</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Final</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">2/4</td>
+</table>
 
 ## 2017
-|Round|Problem #|Completed?|
-|:----|:--------|:---------|
-|  1  |    1    |    ✔    |
-|  1  |    2    |    ❌    |
-|  1  |    3    |   ❌    |
-|  1  |    4    |   ✔     |
-|Final|         |    2/4    |
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l"><b>Round</b></th>
+    <th class="tg-yw4l"><b>Problem #</b></th>
+    <th class="tg-yw4l"><b>Completed?</b></th>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">1</td>
+    <td class="tg-yw4l">1</td>
+    <td class="tg-yw4l">✔</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">1</td>
+    <td class="tg-yw4l">2</td>
+    <td class="tg-yw4l">❌</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">1</td>
+    <td class="tg-yw4l">3</td>
+    <td class="tg-yw4l">❌</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">1</td>
+    <td class="tg-yw4l">4</td>
+    <td class="tg-yw4l">✔</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Final</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">2/4</td>
+</table>
 
 ## 2018
-|Round|Problem #|Completed?|
-|:----|:--------|:---------|
-|  1  |    1    |     ✔  |
-|  1  |    2    |    ❌    |
-|  1  |    3    |   ❌    |
-|  1  |    4    |   ❌    |
-|Final|         |    1/4    |
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l"><b>Round</b></th>
+    <th class="tg-yw4l"><b>Problem #</b></th>
+    <th class="tg-yw4l"><b>Completed?</b></th>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">1</td>
+    <td class="tg-yw4l">1</td>
+    <td class="tg-yw4l">✔</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">1</td>
+    <td class="tg-yw4l">2</td>
+    <td class="tg-yw4l">❌</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">1</td>
+    <td class="tg-yw4l">3</td>
+    <td class="tg-yw4l">❌</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">1</td>
+    <td class="tg-yw4l">4</td>
+    <td class="tg-yw4l">❌</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Final</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">1/4</td>
+</table>
 
 
