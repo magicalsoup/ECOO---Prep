@@ -1,8 +1,10 @@
 # ECOO
+ECOO preperation
 
 # Progress
 
 ## 2012
+
 <table class="tg">
   <tr>
     <th class="tg-yw4l"><b>Round</b></th>
@@ -38,6 +40,7 @@
 <br>
 
 ## 2013
+
 <table class="tg">
   <tr>
     <th class="tg-yw4l"><b>Round</b></th>
