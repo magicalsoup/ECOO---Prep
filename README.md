@@ -1,7 +1,5 @@
 <h1>ECOO</h1>
  
-<html>
-<body>
 
 <table style="width:10%">
   <tr>
@@ -26,8 +24,6 @@
   </tr>
 </table>
 
-</body>
-</html>
 
 ECOO preperation
 
