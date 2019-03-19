@@ -1,5 +1,7 @@
 # ECOO
 
+https://magicalsoup.github.io/ECOO-Prep/
+
 # Progress
 
 ## 2012
