@@ -35,7 +35,10 @@
     <td class="tg-yw4l">✔</td>
 </table>
 
+<br>
+
 ## 2013
+
 <table class="tg">
   <tr>
     <th class="tg-yw4l"><b>Round</b></th>
@@ -68,6 +71,7 @@
     <td class="tg-yw4l">3/4</td>
 </table>
 
+<br>
 ## 2014
 <table class="tg">
   <tr>
@@ -101,7 +105,7 @@
     <td class="tg-yw4l">1/4</td>
 </table>
 
-
+<br>
 ## 2015
 <table class="tg">
   <tr>
@@ -135,7 +139,7 @@
     <td class="tg-yw4l">1/4</td>
 </table>
 
-
+<br>
 ## 2016
 <table class="tg">
   <tr>
@@ -169,6 +173,7 @@
     <td class="tg-yw4l">2/4</td>
 </table>
 
+<br>
 ## 2017
 <table class="tg">
   <tr>
@@ -202,6 +207,7 @@
     <td class="tg-yw4l">2/4</td>
 </table>
 
+<br>
 ## 2018
 <table class="tg">
   <tr>
