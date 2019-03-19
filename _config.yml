@@ -7,5 +7,6 @@ relative_links:
 show downloads: true  
 include:
   - README.md
+  - Contributions.md
 
 theme: jekyll-theme-cayman
