@@ -6,13 +6,6 @@ relative_links:
 
   
 include:
-  - CONTRIBUTING.md
-  - README.html
-  - LICENSE.md
-  - COPYING.md
-  - CODE_OF_CONDUCT.md
-  - CONTRIBUTING.md
-  - ISSUE_TEMPLATE.md
-  - PULL_REQUEST_TEMPLATE.md
+  - README.md
 
 theme: jekyll-theme-cayman
