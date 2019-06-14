@@ -27,9 +27,9 @@ https://magicalsoup.github.io/ECOO-Prep/
 |:----|:--------|:---------|
 |  1  |    1    |    ✔    |
 |  1  |    2    |    ✔    |
-|  1  |    3    |   ❌    |
+|  1  |    3    |   ✔    |
 |  1  |    4    |   ❌    |
-|Final|         |    1/4    |
+|Final|         |    3/4    |
 
 ## 2015
 |Round|Problem #|Completed?|
