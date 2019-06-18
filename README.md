@@ -67,4 +67,13 @@ https://magicalsoup.github.io/ECOO-Prep/
 |  1  |    4    |   ❌    |
 |Final|         |    1/4    |
 
+## 2019
+|Round|Problem #|Completed?|
+|:----|:--------|:---------|
+|  1  |    1    |     ✔  |
+|  1  |    2    |    ❌    |
+|  1  |    3    |   ❌    |
+|  1  |    4    |   ❌    |
+|Final|         |    1/4    |
+
 
