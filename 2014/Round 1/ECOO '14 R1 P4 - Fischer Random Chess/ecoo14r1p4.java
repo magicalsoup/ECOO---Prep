@@ -10,15 +10,14 @@ public class ecoo14r1p4 {
             possibleConfigurations.add(it.toString());
         }
         for(int testcases=1; testcases<=10; testcases++) {
-            for(int r=0; r<8; r++) {
-                String row=sc.next();
-                int possible=0;
-                for(String s : possibleConfigurations){
-                    if(matches(s, row))
-                        possible++;
-                }
-                System.out.println(possible);
+            String row=sc.next();
+            int possible=0;
+            for(String s : possibleConfigurations){
+                if(matches(s, row))
+                    possible++;
             }
+            System.out.println(possible);
+            
         }
         sc.close();
     }
