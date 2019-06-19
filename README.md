@@ -35,10 +35,10 @@ https://magicalsoup.github.io/ECOO-Prep/
 |Round|Problem #|Completed?|
 |:----|:--------|:---------|
 |  1  |    1    |    ✔    |
-|  1  |    2    |    ❌ (James is doing it)    |
+|  1  |    2    |    ✔    |
 |  1  |    3    |   ❌    |
-|  1  |    4    |   ❌    |
-|Final|         |    1/4    |
+|  1  |    4    |   ✔    |
+|Final|         |    3/4    |
 
 ## 2016
 |Round|Problem #|Completed?|
